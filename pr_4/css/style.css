@@ -1,0 +1,166 @@
+body{
+    overflow-x: hidden;
+    height: 3000px;
+
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-image: url(../images/drew-coffman-1872.jpg);
+    height: 750px;
+    background-position: center;
+}
+nav li a {
+    color: white !important;
+    font-size: 20px;
+}
+.navbar-brand{
+    margin-left: 50px;
+}
+nav li a:hover{
+    color: #e0c690 !important;
+}
+.row2{
+    text-align: center;
+    margin-top: 150px;
+}
+.bt1{
+    background-color: #8e7754;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+.bt2{
+    background: transparent;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 50px;
+    color: white;
+
+
+}
+.row2 p{
+    color: white;
+    font-size: 20px;
+}
+.tx2{
+    font-size: 70px !important;
+}
+.bt2:hover{
+    background: #fff !important;
+    color: #222 !important;
+    border-color: #fff !important;}
+.bt1:hover{
+    background: #fff !important;
+    color: #222 !important;
+    border-color: #fff !important;}
+.img1{
+   padding-top: 100px;
+}
+@media only screen and (max-width: 900px) {
+    .tx2{
+        font-size: 50px !important;
+
+    }
+    .t3{
+        line-height: 50px;
+    }
+    .navbar-brand{
+        margin-left: 0 ;}
+    .row2{
+        margin-top: 50px;
+    }
+    .navbar-toggler-icon{
+        background-color: white;
+        padding: 20px;
+        border-radius: 5px;
+    }
+    .sec3{
+        padding-left: 0 !important;
+        padding-bottom: 100 !important;
+        
+
+    }
+    .tx5{
+        margin-top: 0px;
+    }
+    .iframee{
+        width:100px !important;
+        height: 400px;
+    
+
+    }
+    
+
+}
+
+
+
+
+
+
+
+
+
+.tx4{
+    margin-top: 150px;
+    margin-left: 50px;
+    width: 100%;
+}
+.tx3{
+    font-size: 30px;
+}
+.icns  {
+    list-style: none;
+
+}
+.icon2{
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgba(0, 0, 0, .15);
+
+    border-radius: 60px;
+    text-align: center;
+    display: inline-block;
+    
+    
+}
+.icns{
+    line-height: 30px;
+}
+.icns svg{
+    font-size: 30px;
+    padding-top: 10px;
+    color: #8e7754;
+    
+}
+.icns li {
+    margin-top: 20px;
+}
+.icns{
+    margin-left: -32px;
+}
+.tx5{
+    margin-top: 150px;
+}
+.sec3{
+    background-color: #f8f8f8;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+}
+.tx6{
+    font-size: 25px;
+}
+.tx7{
+    line-height: 30px;
+}
+.sec4{
+    background-color: #f8f8f8;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
